@@ -24,8 +24,6 @@ This project implements a neural network from scratch in **pure Numpy** to class
 
 Achieved ~90% accuracy on training data. 
 
-![accuracy-plot](images/accuracy_plot.png)
-
 Example predictions:
 
 | Digit Image | True Label | Model Prediction |
