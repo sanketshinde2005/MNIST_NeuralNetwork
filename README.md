@@ -28,11 +28,13 @@ Example predictions:
 
 | Digit Image | True Label | Model Prediction |
 |-------------|------------|------------------|
-| (7 image)   | 7          | 7                |
-| (9 image)   | 9          | 9                |
-| (5 image)   | 5          | 5                |
+| (0 image)   | 0          | 0                |
+| (1 image)   | 1          | 1                |
+| (6 image)   | 6          | 6                |
 
 ---
+![WhatsApp Image 2025-06-09 at 17 12 37_f6904e96](https://github.com/user-attachments/assets/706a4730-d67e-4e07-a3fb-267439efbfda)
+
 
 ## How to Run
 
