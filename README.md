@@ -1,4 +1,4 @@
-# MNIST Digit Recognizer - Pure Numpy Neural Network 🚀
+# MNIST Digit Recognizer - Pure Numpy Neural Network
 
 This project implements a neural network from scratch in **pure Numpy** to classify handwritten digits (MNIST dataset).
 
